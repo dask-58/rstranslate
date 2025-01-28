@@ -1,6 +1,6 @@
 # Translation App (TopCoder Submission)
 
-This is a simple CLI application that translates text from **English** to **Spanish** using the Google Translate API.
+This is a simple CLI application that translates text from **lang1** to **lang2** using the Google Translate API.
 
 ## Features
 
